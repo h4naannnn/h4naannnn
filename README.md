@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Hanaan<br><br>Currently pursuing my Bachelor’s Degree in Computer Applications.<br><br>Passionate about learning programming, exploring new technologies and building projects.
+Hi, I'm Hanaan<br><br>Currently pursuing Bachelor’s Degree in Computer Applications.<br><br>Passionate about learning programming, exploring new technologies and building projects.
 
 
 ## 🌐 Socials:
